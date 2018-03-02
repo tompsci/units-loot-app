@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DataController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DisplayCamera.cs" Line="62" Column="18" />
+      <File FileName="Assets\Scripts\DataController.cs" Line="11" Column="26" />
+      <File FileName="Assets\Scripts\CardData.cs" Line="81" Column="2" />
+      <File FileName="Assets\Scripts\CardBody.cs" Line="26" Column="38" />
+      <File FileName="Assets\Scripts\PlayerInventory.cs" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\MenuOptions.cs" Line="38" Column="36" />
+      <File FileName="Assets\Scripts\CardSceneController.cs" Line="36" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

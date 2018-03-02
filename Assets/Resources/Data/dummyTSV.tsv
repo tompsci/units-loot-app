@@ -1,0 +1,73 @@
+S/N	QR	Name	Category	Flavor Text	Long Description	Deck	Additional info	Effects	Weight	Range	Damage	RoF	AP	Min Str	Burst	Shots	AP Rounds	HE Rounds	Cost	Armor	Toughness
+1	http://units.systems/tsd/fire-axe	Fire Axe	Weap	What a way to make an entrance!	The perfect tool for getting up close and personal with devastating impact.	TSD			2		Str+d8								300		
+2	http://units.systems/tsd/matches	Matches	Surv	Keep 'em secret, keep 'em safe.	Wood, phosphorus and a frictional surface combine to quickly reproduce one of mankind's greatest achievements over and over again.	TSD			-										1		
+3	http://units.systems/tsd/glock-18c	Glock 18C	Weap	Is that a machine pistol in your pocket?	A reliable handgun popular with law enforcement and military elite. Boasting a full auto mode that fires 1,200 rounds per minute. This pistol is non-negotiable 9 mm authority.	TSD	Semi-auto		4	12/24/48	2d6	1	1			19			200		
+4	http://units.systems/tsd/first-aid-kit	First Aid Kit	Surv	Medic!	Kit of preparedness to treat most common ailments and wounds.	TSD		+2 Healing	2												
+5	http://units.systems/tsd/sw-44-snub-nose	S&W .44 Snub Nose	Weap	The gut buster.	A classic revolver that gained its reputation due to its precision and power. It hardly ever misfires, and can quickly be concealed in a pocket or waistband.	TSD			3	12/24/48	2d6+1	1	1			6			200		
+6	http://units.systems/tsd/kalashnikov-ak47-762mm/	Kalashnikov AK47	Weap	Start your own reign of terror.	Instantly recognized by its wooden stock and banana shaped magazine, this simple yet dependable weapon is the archetypal rifle of insurgents, freedom fighters, and terrorists across the globe.	TSD	Auto		10	24/48/96	2d8+1	3	2	d6		30			450		
+7		Medicinal Charcoal	Surv	Good for what ails you.	Mainly used for purification and highly recommended to treat poisoning and overdoses. The microporosity of the material is unsurpassed in terms of absorption.	TSD															
+8		Army Boots	Armor	These boots are made for walking.	Military style boots honed for foot protection. Perfect for a variety of climates. They may seem clumsy, but the sore truth is that they always come out on top.	TSD			-										200		
+9		Backpack	Armor	Carry more with less effort.	Modern man found ergonomic ways to store items. These carry their weight in gold.	TSD			2										50		
+10		Red Leather Jacket	Armor	King of the killing floor.	Candy apple red might not be the best camo, but you'll thrill them as you kill them.	TSD															
+11		Ski Helmet	Armor	Protects the thinker.	Some helmets makes you look good, others make you look like a fool. This is the pretty non-bulletproof version.	TSD	50% chance vs. head shot		5										75	3	
+12		Combat Knife	Weap	Now, THIS is a knife.	Rumor has it that really good steel comes from Sweden. Well honed, this knife will cut through just about anything.	TSD			3		Str+d4								50		
+13		Small Box of Ammo	Weap	Food for Guns!	Manufactured precision-made ammunition, stable and able. The best choice for your weapons.	TSD															
+14		Shoulder Armor	Armor	The slender becomes the wider.	Both protection and enhancement in one. Makes you look beefed up and adds good protection against any blunt violence.	TSD			10										100	2	
+15		Life Jacket	Armor	Low profile ain't your thing.	Designed to hold a man's head above water and signal attention with bright color. These well-crafted padded jackets can withstand a punch or two. Keeps you bobbing up most unexpectedly.	TSD															
+16		Gas Can	Surv	Alluring fumes that'll go to your head.	Key ingredient for most motorized vehicles, highly flammable and invaluable in the production of improvised incendiary weapons.	TSD			1												
+17		Spray Cans	Surv	Put some more color into this world.	Color the world around you or inhale it to see perhaps even greater colors. Unknown duration.	TSD			1												
+18		Shovel	Surv	Dig in.	A basic tool refined with enhanced functionality. Can provide shelter, food, escape or discoveries.	TSD			2												
+19		Dynamite	Weap	Do they look sweaty!?	Well rolled rods that, despite their size, will make quite an impression.	TSD	Each additional stick adds +1 damage and +1" to radius.	MBT	2	5-10-20	2d6										
+20		Small Stash	Quest	Look, a rubber band!	The alluring glow to the little pile of valuables gives you a happy feeling. Someone’s been collecting. Now, it’s yours to cash in.	TSD															
+21		Harpoon Gun	Weap	Not just for for whaling, anymore.	Quieter than most projectile weapons and more powerful than a sling shot. Works on land and in water. These are rarely found unmodified.	TSD			4	5-10-20	2d6	1									
+22		Flashlight	Surv	Let there be light.	Packed with electrical lighting power to cut bright cones through darkness, shake or smack if not working properly.	TSD															
+23		Wrench	Surv	Sweat or blood, a tool fit for both trades.	A real nut buster! The last tool a real mechanic would ever heft but still more flexible than everything else in the tool box. Loosen or tighten up - all in one.	TSD															
+24		Metallic Lighter	Surv	Click, zip, whoosh... BOOM!	A fistful of torch. This small item is a true art of engineering, that can fire up under the most dire circumstances.	TSD															
+25		Chainsaw	Weap	Just add massacre.	Gasoline and electric versions exist. Both are very dangerous, but the roar of the gasoline version far outweighs the other in terms of intimidation.	TSD	A natural 1 on the Fighting die (regardless of the Wild Die) hits the user instead.		20		2d6+4								200		
+26		Remington 870	Weap	Pack a punch.	A trusted pump-action shotgun issued in many variations. Owning one of these will change your life by ending others.	TSD			8	12/24/48	1-3d6	1				6			150		
+27		Binoculars	Surv	Just what you're looking for...	Good for spying from great distances. Some models feature zoom lenses or other extras.	TSD															
+28		U-Lock	Surv	Secure bigger things.	Always make sure you secure your ride, prisoner or box of supplies thoroughly.	TSD															
+29		Tobacco	Surv	There are faster ways than this.	For those special moments of personal reflection before or after the slaughter.	TSD															
+30		Rope	Surv	How long is a piece of rope? Now you know.	High-quality fabric made to withstand stress and heavy loads. A hiker's item of choice.	TSD															4
+31		Running Shoes	Armor	Preferred by sneakers.	Made in faraway lands, by the best of hands. Soft rubber soles, and sturdy leather protection. A perfect fit for healthy feet. You´ll never want to run out of these.	TSD															
+32		Fruit Plant	Quest	Water my world.	Requires sun, moisture and human-friendly temperatures for the seeds to grow and bear fruit. Treat it with love. This is one of the few things in this world that actually gives something in return.	TSD															
+33		M1 Combat Helmet	Armor	Let me see your war face!	Might just let you live to declare ”That was a close call!”.	TSD	50% Chance vs. head shot		4										200	4	
+34		Sleeping Bag	Surv	When it's cold outside and you want to sleep in.	Crafted from lightweight fabrics. Designed to withstand Mother Nature’s shifting temperament. A vital piece of equipment that is highly sought after.	TSD															
+35		Duct Tape	Surv	If a strip of this doesn't fix it, nothing will.	Highly reliable tech that grapples through stickiness. Can fix most damaged materials and keep it functioning - good enough.	TSD															
+36		Rearview Mirror	Surv	Objects may appear closer than they are.	A fine polished reflective glass is a true multipurpose tool for survivors of all Eras.	TSD															
+37		Compass	Surv	A force unknown controls this device.	A precision instrument for safe guidance if you know how to use it.	TSD															
+38		Kneepads	Armor	Down on your knees and feel good about it.	When you have to quickly take a knee for that critical shot, a little bit of padding can help you keep your focus on target.	TSD															
+39		Welding Helmet	Armor	Protects your face from ugly marks.	Block body fluids or splinters, hot or cold stuff. Features a tough visor that's easy to clean.	TSD			4										100	2	
+40		Ring of Keys	Quest	These might be the keys to Another World.	People usually keep their valuables locked away. Keys fit into locks. Now just find the matching pairs.	TSD															
+41		Plastic Bottles	Surv	More common than fish in the sea.	Durable, flexible container that holds liquids for survival or attack. They come in a variety of configurations	TSD															
+42		Gas Mask	Surv	Smell you later.	Engineering at its best. It's made for hazardous environments where respiratory functions would be seriously damaged without filtration.	TSD															
+43		Pillbox	Quest	Take the blue pill.	Created to alter the biological or mental state of the user. They can stop bleeding, treat insanity, induce hallucinations or put men to sleep. Most often they are taken orally, swallowed whole.	TSD															
+44		Canned Food	Surv	Beggars can't be choosers.	Thin metal container that preserves edibles. Often stacked as a status symbol in special cabinets, they usually contain vegetables or meat. Special tools may be used to open them efficiently.	TSD															
+45		Fine Hardbound Book	Quest	Someone had a lot to say.	Intellectual property should not to be underestimated. With a book in your hand you might come out as a pundit instead of a bandit.	TSD															
+46		Thick Blanket	Surv	Cover me!	When the nights and the seasons are against you, hug this one a little tighter.	TSD															
+47		Scotch	Surv	Liquid courage in the form of single or blended.	Comes in many shapes, but once emptied becomes, "the best I ever had."	TSD															
+48	http://units.systems/tsd/crowbar	Crowbar	Weap	Need to jimmy that?	A solid piece of equipment, well worth its weight. Once you start using it, you can’t be without it.	TSD	Reach 1		2		Str+d4								10		
+49		Trenchcoat	Armor	#Lurktime	Excellent to conceal contraband on your body, or more mundanely, keep your arms and legs dry in harsh weather conditions.	TSD															
+50		Oil Lamp	Surv	Light your way, old style.	The best substitute for a lamp in any low tech society. Any hardcore prepper's first choice of light source.	TSD															
+51		Glasses of Seeing	Armor	Put these on and a new world might be revealed.	Glasses come in all forms and shapes but they most often make you look like someone not to hit in the face.	TSD															
+52		Waterflask	Surv	Bring your own drink to the party.	For longer journeys you always need a reliable container. Never miss a chance to fill 'er up!	TSD															
+53		Fire Extinguisher	Surv	Always aim for the base.	Pressure filled canister for dousing flames in awkward places. Can kill a fire in a blink of an eye if handled properly.	TSD															
+54		Roadsign Shield	Armor	Fast protection against furious forces.	A punched lightweight sheet of metal, bendable, but sturdy as well. Found everywhere, usually perforated and corroded, but one or two in mint condition is a real haul.	TSD	+1 Parry. +2 Armor to ranged shots that hit.		12										0		
+55		BB Gun	Weap	Aim for the eyes!	Pneumatic guns are fun to play with, but when you're facing something bigger than a rat, run!	BI1															
+56		Dry Ration	Surv	It tastes something vague.	Work up some good saliva before you take a bite out of this. The Lembas bread of the future does not come with anything but as a filler of empty stomachs.	BI1															
+57		Field Dressing	Surv	Only break the sealing when you really have to.	Sterile compress, everything you need to stop serious bleeding.	BI1															
+58		Fishing Gear	Surv	Wait for it, wait...	Getting in tune with nature, biding time in silence in contrast to the actual catching is what it's all about.	BI1															
+59		Home made 22	Weap	Jerk, load, shoot in that order.	Home made weapons should always be handled with the utmost respect, with the safety always off you don't want to put this loaded piece down your waistline.	BI1															
+60		Hoodie	Armor	Looks warmer than it is.	The heavy fabric has a life of its own, made for dousing off some place safe.	BI1															
+61		Rusty Kitchen Knife	Weap	No cutting boards around.	You most often find useful tools in what used to be called kitchens.	BI1															
+62		Pocket Knife	Weap	No excuse for having dirty finger nails.	An ancient pocket knife with wooden handle and carbon steel blade, all you'll ever need. No?	BI1															
+63		Toilet rail mace	Weap	Made to be held.	Most commonly found near senior villages and often the most basic weapon for hooligans.	BI1															
+64		Scarf	Armor	A garment without a uniform meaning.	Fashion-statement, political identification, cleaning rag, unwrapped carrying container. This long, broad piece of fabric has many uses...	BI1															
+65		Slingshot	Weap	Suddenly the ground is littered with ammunition.	Silent, cheap and effective all in one, never leave you crib without it.	BI1															
+66		Snare Trap	Weap	For the little critters.	Look at the patterns, use bait and lure the little ones into it. Not for anything bigger than rabbits.	BI1															
+67		Sweat Pants	Armor	A constant reminder to relax.	Feel every bit as cozy and free wearing these. Not very tough but more comfy than any leg wear out there.	BI1															
+68		T-shirt	Armor	The meaning of the print is long forgotten.	In the old world there seems to have been many tribes, all with different	BI1															
+69		Cans of Water	Surv	It's never enough.	Emergency water with some extra iron to it. Do not shake. A recommendation would be to poor this one like a good ale and let it rest for a good while.	BI1															
+70		Wind Jacket	Armor	At the right angle this one still works.	It's like wearing nothing with holes in it. Once, (when without holes) this must have been something extra special.	BI1															
+71		Worn Boots	Armor	A few more miles in 'em.	If you run out of ammo just throw these at the enemy, the stench might catch them off guard.	BI1															
+72		Worn Trousers	Armor	The stains keep these together	It's hard to tell what kind of material these are made out of, but as you stretch you can tell they're not made for any tip-tap shit.	BI1															
